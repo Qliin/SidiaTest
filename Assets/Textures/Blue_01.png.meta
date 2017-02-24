@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: eb619f305de77a44abbf0c8a821298d8
+timeCreated: 1487818647
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blue_01_0
+    21300002: Blue_01_1
+    21300004: Blue_01_2
+    21300006: Blue_01_3
+    21300008: Blue_01_4
+    21300010: Blue_01_5
+    21300012: Blue_01_6
+    21300014: Blue_01_7
+    21300016: Blue_01_8
+    21300018: Blue_01_9
+    21300020: Blue_01_10
+    21300022: Blue_01_11
+    21300024: Blue_01_12
+    21300026: Blue_01_13
+    21300028: Blue_01_14
+    21300030: Blue_01_15
+    21300032: Blue_01_16
+    21300034: Blue_01_17
+    21300036: Blue_01_18
+    21300038: Blue_01_19
+    21300040: Blue_01_20
+    21300042: Blue_01_21
+    21300044: Blue_01_22
+    21300046: Blue_01_23
+    21300048: Blue_01_24
+    21300050: Blue_01_25
+    21300052: Blue_01_26
+    21300054: Blue_01_27
+    21300056: Blue_01_28
+    21300058: Blue_01_29
+    21300060: Blue_01_30
+    21300062: Blue_01_31
+    21300064: Blue_01_32
+    21300066: Blue_01_33
+    21300068: Blue_01_34
+    21300070: Blue_01_35
+    21300072: Blue_01_36
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue_01_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3471
+        width: 682
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_1
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 3469
+        width: 682
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_2
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 3474
+        width: 682
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2819
+        width: 682
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_4
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2827
+        width: 682
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_5
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 2842
+        width: 682
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_6
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 2829
+        width: 682
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_7
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 2839
+        width: 682
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2234
+        width: 682
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2244
+        width: 682
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_10
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 2269
+        width: 682
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_11
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 2279
+        width: 682
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1592
+        width: 682
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1612
+        width: 682
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_14
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1614
+        width: 682
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_15
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1607
+        width: 682
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_16
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 1615
+        width: 682
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1036
+        width: 682
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_18
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1050
+        width: 682
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_19
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1042
+        width: 682
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_01_20
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 1046
+        width: 682
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
